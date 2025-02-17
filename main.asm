@@ -205,6 +205,8 @@ subtract:
   mov rdx, c2len
   syscall
 
+;not finished
+
 
 dividing: 
   mov rax, 1
@@ -213,6 +215,8 @@ dividing:
   mov rdx, c3len
   syscall
 
+;not finished
+
 multiply:
   mov rax, 1
   mov rdi, 1
@@ -220,6 +224,7 @@ multiply:
   mov rdx, c4len
   syscall
 
+;not finished
 
 
 
